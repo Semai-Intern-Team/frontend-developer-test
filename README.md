@@ -11,8 +11,8 @@
 		- Halaman Register (create POST menggunakan resource poin 1)
 		- Tab bottom meliputi (home, explore, notifikasi, dan akun) menggunakan component dari vue js
 		- buat sidebar menu dimana terdapat menu (Manage Account, Privasi, dan logout)
-    		- pada halaman home buatlah function GET untuk menampilkan konten dari resources poin 1
-    		- pada halaman manage account buat function PUT dan DELETE menggunakan resource pada poin 1
+		- pada halaman home buatlah function GET untuk menampilkan konten dari resources poin 1
+		- pada halaman manage account buat function PUT dan DELETE menggunakan resource pada poin 1
 	- Buatkan github repository untuk project ini
 3. Results
 	- Waktu pengerjaan 3 hari terhitung setelah Anda melihat dokumen ini
